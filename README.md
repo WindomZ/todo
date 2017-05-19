@@ -1,6 +1,6 @@
 # TO:point_right:DO
 
-> What should i do! :pushpin:
+> What should i do?! :pushpin:
 
 ## :collision: Repository
 
@@ -18,5 +18,9 @@
 
 - [ ] [WindomZ/go-develop-kit](https://github.com/WindomZ/go-develop-kit)
   - ![](https://img.shields.io/badge/Progress-30%25-yellow.svg)
+
+## :pill: Issue
+
+- [ ] [WindomZ/go-commander](https://github.com/WindomZ/user-agent-string)
 
 ## :nut_and_bolt: Contribution
