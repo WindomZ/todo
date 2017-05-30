@@ -15,7 +15,7 @@
 - [ ] [WindomZ/keeptrack](https://github.com/WindomZ/keeptrack)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [ ] [WindomZ/disk-calc](https://github.com/WindomZ/disk-calc)
-  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+  - ![](https://img.shields.io/badge/Progress-10%25-orange.svg)
 
 ## :page_with_curl: Document
 
