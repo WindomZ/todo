@@ -14,7 +14,7 @@
   - ![](https://img.shields.io/badge/Progress-50%25-blue.svg)
 - [ ] [WindomZ/keeptrack](https://github.com/WindomZ/keeptrack)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [ ] [WindomZ/disk-calc](https://github.com/WindomZ/disk-calc)
+- [ ] [WindomZ/gitclone.js](https://github.com/WindomZ/gitclone.js)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 
 ## :page_with_curl: Document
@@ -26,7 +26,5 @@
   - ![](https://img.shields.io/badge/Progress-30%25-yellow.svg)
 
 ## :pill: Issue
-
-- [ ] [WindomZ/go-commander](https://github.com/WindomZ/user-agent-string)
 
 ## :nut_and_bolt: Contribution
