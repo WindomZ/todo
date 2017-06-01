@@ -16,6 +16,12 @@
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/gitget.js](https://github.com/WindomZ/gitget.js)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+- [WindomZ/GoGene](https://github.com/WindomZ/GoGene)
+  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+- [WindomZ/free-idea](https://github.com/WindomZ/free-idea)
+  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+- [WindomZ/GAbrv](https://github.com/WindomZ/GAbrv)
+  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 
 ## :page_with_curl: Document
 
@@ -37,4 +43,5 @@
 
 - GoGene - genealogy program
 - GAbrv - Glossary & Abbreviation
-- free-idea idea-license-server
+- free-idea - idea-license-server
+- GoAlidayu - alidayu sms server
