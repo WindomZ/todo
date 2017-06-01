@@ -14,7 +14,7 @@
   - ![](https://img.shields.io/badge/Progress-50%25-blue.svg)
 - [ ] [WindomZ/keeptrack](https://github.com/WindomZ/keeptrack)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [ ] [WindomZ/gitclone.js](https://github.com/WindomZ/gitclone.js)
+- [ ] [WindomZ/gitget.js](https://github.com/WindomZ/gitget.js)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 
 ## :page_with_curl: Document
