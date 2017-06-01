@@ -28,3 +28,9 @@
 ## :pill: Issue
 
 ## :nut_and_bolt: Contribution
+
+## :innocent: idea
+
+- GoGene - genealogy program
+- GAbrv - Glossary & Abbreviation
+- free-idea idea-license-server
