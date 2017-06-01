@@ -37,4 +37,5 @@
 
 - GoGene - genealogy program
 - GAbrv - Glossary & Abbreviation
-- free-idea idea-license-server
+- free-idea - idea-license-server
+- GoAlidayu - alidayu sms server
