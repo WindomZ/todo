@@ -16,6 +16,10 @@
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/gitget.js](https://github.com/WindomZ/gitget.js)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+- [WindomZ/GoGene](https://github.com/WindomZ/GoGene)
+  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+- [WindomZ/free-idea](https://github.com/WindomZ/free-idea)
+  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 
 ## :page_with_curl: Document
 
