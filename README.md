@@ -18,8 +18,6 @@
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/GoGene](https://github.com/WindomZ/GoGene)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [WindomZ/free-idea](https://github.com/WindomZ/free-idea)
-  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/GAbrv](https://github.com/WindomZ/GAbrv)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 
