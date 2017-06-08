@@ -21,7 +21,7 @@
 - [WindomZ/GAbrv](https://github.com/WindomZ/GAbrv)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/coupon-plugin](https://github.com/WindomZ/coupon-plugin)
-  - ![](https://img.shields.io/badge/Progress-15%25-orange.svg)
+  - ![](https://img.shields.io/badge/Progress-50%25-blue.svg)
 
 ## :page_with_curl: Document
 
