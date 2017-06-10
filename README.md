@@ -10,8 +10,6 @@
   - ![](https://img.shields.io/badge/Progress-50%25-blue.svg)
 - [WindomZ/gitremote](https://github.com/WindomZ/gitremote)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [WindomZ/dk-lnmp](https://github.com/WindomZ/dk-lnmp)
-  - ![](https://img.shields.io/badge/Progress-50%25-blue.svg)
 - [WindomZ/keeptrack](https://github.com/WindomZ/keeptrack)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/gitget.js](https://github.com/WindomZ/gitget.js)
@@ -22,6 +20,8 @@
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/coupon-plugin](https://github.com/WindomZ/coupon-plugin)
   - ![](https://img.shields.io/badge/Progress-50%25-blue.svg)
+- [WindomZ/lottery-engine](https://github.com/WindomZ/lottery-engine)
+  - ![](https://img.shields.io/badge/Progress-30%25-yellow.svg)
 
 ## :page_with_curl: Document
 
