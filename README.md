@@ -2,6 +2,10 @@
 
 > What should i do?! :pushpin:
 
+:pencil2: [Edit it](https://github.com/WindomZ/todo/edit/master/README.md)
+
+:+1: [Publish](https://github.com/WindomZ/todo/compare/gh-pages...master?expand=1)
+
 ## :pill: Issue
 
 [New](https://github.com/WindomZ/todo/issues/new) | [List](https://github.com/WindomZ/todo/issues)
@@ -18,9 +22,9 @@
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/gitget.js](https://github.com/WindomZ/gitget.js)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [WindomZ/GoGene](https://github.com/WindomZ/GoGene)
+- [WindomZ/GoGene](https://github.com/WindomZ/GoGene) - genealogy program
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [WindomZ/GAbrv](https://github.com/WindomZ/GAbrv)
+- [WindomZ/GAbrv](https://github.com/WindomZ/GAbrv) - Glossary & Abbreviation
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/coupon-plugin](https://github.com/WindomZ/coupon-plugin)
   - ![](https://img.shields.io/badge/Progress-80%25-blue.svg)
@@ -35,13 +39,6 @@
 - [WindomZ/go-develop-kit](https://github.com/WindomZ/go-develop-kit)
   - ![](https://img.shields.io/badge/Progress-30%25-yellow.svg)
 
-## :nut_and_bolt: Contribution
-
-> Empty
-
 ## :innocent: idea
 
-- GoGene - genealogy program
-- GAbrv - Glossary & Abbreviation
-- free-idea - idea-license-server
 - GoAlidayu - alidayu sms server
