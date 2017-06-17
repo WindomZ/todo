@@ -4,6 +4,8 @@
 
 :pencil2: [Edit it](https://github.com/WindomZ/todo/edit/master/README.md)
 
+:+1: [Publish](https://github.com/WindomZ/todo/compare/gh-pages...master?expand=1)
+
 ## :pill: Issue
 
 [New](https://github.com/WindomZ/todo/issues/new) | [List](https://github.com/WindomZ/todo/issues)
