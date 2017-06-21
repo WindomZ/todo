@@ -4,7 +4,7 @@
 
 :pencil2: [Edit it](https://github.com/WindomZ/todo/edit/master/README.md)
 
-:ok_hand: [Publish](https://github.com/WindomZ/todo/compare/gh-pages...master?expand=1)
+:ok_hand: [Merge](https://github.com/WindomZ/todo/compare/gh-pages...master?expand=1)
 
 ## :pill: Issue
 
@@ -30,6 +30,8 @@
   - ![](https://img.shields.io/badge/Progress-80%25-blue.svg)
 - [WindomZ/lottery-engine](https://github.com/WindomZ/lottery-engine)
   - ![](https://img.shields.io/badge/Progress-80%25-blue.svg)
+- [WindomZ/wellpass](https://github.com/WindomZ/wellpass)
+  - ![](https://img.shields.io/badge/Progress-10%25-orange.svg)
 
 ## :page_with_curl: Document
 
