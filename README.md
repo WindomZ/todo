@@ -26,12 +26,10 @@
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 - [WindomZ/GAbrv](https://github.com/WindomZ/GAbrv) - Glossary & Abbreviation
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
-- [WindomZ/coupon-plugin](https://github.com/WindomZ/coupon-plugin)
-  - ![](https://img.shields.io/badge/Progress-80%25-blue.svg)
-- [WindomZ/lottery-engine](https://github.com/WindomZ/lottery-engine)
-  - ![](https://img.shields.io/badge/Progress-80%25-blue.svg)
 - [WindomZ/wellpass](https://github.com/WindomZ/wellpass)
   - ![](https://img.shields.io/badge/Progress-10%25-orange.svg)
+- [WindomZ/lazy-docker](https://github.com/WindomZ/lazy-docker)
+  - ![](https://img.shields.io/badge/Progress-15%25-orange.svg)
 
 ## :page_with_curl: Document
 
