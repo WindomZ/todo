@@ -34,6 +34,8 @@
   - ![](https://img.shields.io/badge/Progress-15%25-orange.svg)
 - [WindomZ/letmein-su](https://github.com/WindomZ/letmein-su)
   - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
+- [WindomZ/my-repositories](https://github.com/WindomZ/my-repositories)
+  - ![](https://img.shields.io/badge/Progress-0%25-orange.svg)
 
 ## :page_with_curl: Document
 
