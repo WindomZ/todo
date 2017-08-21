@@ -49,5 +49,3 @@
   - ![](https://img.shields.io/badge/Progress-10%25-yellow.svg)
 
 ## :innocent: idea
-
-- GoAlidayu - alidayu sms server
