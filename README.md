@@ -49,3 +49,6 @@
   - ![](https://img.shields.io/badge/Progress-10%25-yellow.svg)
 
 ## :innocent: idea
+
+- A tool parses the sql create statement to the markdown document.
+- A tool parses the url parameter to json.
