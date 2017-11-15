@@ -51,8 +51,6 @@
   - ![](https://img.shields.io/badge/Progress-20%25-orange.svg)
 - [WindomZ/go-develop-kit](https://github.com/WindomZ/go-develop-kit)
   - ![](https://img.shields.io/badge/Progress-30%25-yellow.svg)
-- [WindomZ/mtoi](https://github.com/WindomZ/mtoi)
-  - ![](https://img.shields.io/badge/Progress-50%25-yellow.svg)
 
 ## :innocent: idea
 
