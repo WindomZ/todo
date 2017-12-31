@@ -2,11 +2,11 @@
 
 > What should i do?! :pushpin:
 
+> stay hungry, stay foolish.
+
 :pencil2: [Edit it](https://github.com/WindomZ/todo/edit/master/README.md)
 
 :ok_hand: [Merge](https://github.com/WindomZ/todo/compare/gh-pages...master?expand=1)
-
-> stay hungry, stay foolish.
 
 ## :pill: Issue
 
