@@ -6,6 +6,8 @@
 
 :ok_hand: [Merge](https://github.com/WindomZ/todo/compare/gh-pages...master?expand=1)
 
+> stay hungry, stay foolish.
+
 ## :pill: Issue
 
 [New](https://github.com/WindomZ/todo/issues/new) | [List](https://github.com/WindomZ/todo/issues)
